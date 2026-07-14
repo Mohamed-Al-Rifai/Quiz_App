@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     const Text(
-                      "Thanks For Answering ❤️",
+                      "Thanks For Answering ",
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
